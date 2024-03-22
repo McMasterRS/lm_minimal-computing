@@ -2,12 +2,12 @@
 
 Materials for the McMaster Research Software learning module: **<<  ENTER LEARNING MODULE NAME HERE  >>**  
 
-This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/<<enter_site_url>>) with GitHub Pages.  
+This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/lm_minimal_computing) with GitHub Pages.  
 
 Contributions by the following individuals: 
-- Learning module content created by << ENTER NAME(S) HERE >>  
-- Content edited for online use by << ENTER NAME(S) HERE >>  
-- Online pages created by << ENTER NAME(S) HERE >>  
+- Learning module content created by Ola Hejazi
+- Content edited for online use by Ola Hejazi  
+- Online pages created by Ola Hejazi  
 
 All content is made available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 
