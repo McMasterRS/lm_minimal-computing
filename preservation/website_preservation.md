@@ -8,7 +8,7 @@ nav_order: 4
 ## Web Archiving
 
 *"Web archiving is simply the act of collecting and preserving websites in an archive. It's the best way to capture website content in an immutable and time-stamped form that facilitates compliance, litigation, and overall information governance.*​
-*Companies and organizations archive website content for various reasons; it could be to comply with industry standards, protect themselves from intellectual property theft and false claims, or simply preserve their history as they make changes to their existing website or implement a brand-new one."* [1](https://blog.pagefreezer.com/reasons-companies-should-archive-websites)
+*Companies and organizations archive website content for various reasons; it could be to comply with industry standards, protect themselves from intellectual property theft and false claims, or simply preserve their history as they make changes to their existing website or implement a brand-new one."* [1]( https://blog.pagefreezer.com/reasons-companies-should-archive-websites)
 
 
 ### Internet Archive Wayback Machine
