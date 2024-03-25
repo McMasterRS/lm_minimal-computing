@@ -8,7 +8,7 @@ nav_order: 4
 ## Web Archiving
 
 *"Web archiving is simply the act of collecting and preserving websites in an archive. It's the best way to capture website content in an immutable and time-stamped form that facilitates compliance, litigation, and overall information governance.*​
-*Companies and organizations archive website content for various reasons; it could be to comply with industry standards, protect themselves from intellectual property theft and false claims, or simply preserve their history as they make changes to their existing website or implement a brand-new one."* [1](blog.pagefreezer.com/reasons-companies-should-archive-websites)
+*Companies and organizations archive website content for various reasons; it could be to comply with industry standards, protect themselves from intellectual property theft and false claims, or simply preserve their history as they make changes to their existing website or implement a brand-new one."* [1](https://blog.pagefreezer.com/reasons-companies-should-archive-websites)
 
 
 ### Internet Archive Wayback Machine
@@ -17,7 +17,16 @@ nav_order: 4
 
 ### Steps to use Internet Archive Wayback Machine
 
-**1. Steps to view archived websites**
+**1. Steps to archive a page on a website**
+
+- Visit [https://web.archive.org/](https://web.archive.org/). 
+- Type the URL of the site you want to save into the "Save Page Now" field. 
+- Ensure that you enter the specific address you want, as the Wayback Machine only archives content on one page, not other linked pages. 
+- Click on the grey SAVE PAGE button. 
+- A loading icon will appear until the green ‘’✅Done!’’ is displayed. 
+- A link will be provided to visit the archived page.
+
+**2. Steps to view archived websites**
 
 - Visit [https://web.archive.org/](https://web.archive.org/). 
 - Type the URL of the site you want to view into the field labeld "Enter a URL or words related to a site’s home page". 
@@ -28,12 +37,3 @@ nav_order: 4
 - Green or blue circles will be displayed around the dates that the website archived on. 
 - Hover over the date to see the list of archive times. 
 - Select a time to view the content. 
-
-**2. Steps to archive a page on a website**
-
-- Visit [https://web.archive.org/](https://web.archive.org/). 
-- Type the URL of the site you want to save into the "Save Page Now" field. 
-- Ensure that you enter the specific address you want, as the Wayback Machine only archives content on one page, not other linked pages. 
-- Click on the grey SAVE PAGE button. 
-- A loading icon will appear until the green ‘’✅Done!’’ is displayed. 
-- A link will be provided to visit the archived page.

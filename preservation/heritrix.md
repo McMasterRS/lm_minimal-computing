@@ -9,7 +9,7 @@ nav_order: 4
 Heritrix is the Internet Archive's open-source, extensible web crawler designed for web archiving purposes.​
 
 It is providing a web-based user interface for configuring, starting, pausing, and stopping the crawl. The interface also displays the current state of the crawl and generates logs and reports. The logs display the URI of the document downloaded, the time taken to download it, the document size and indicate any errors encountered.
-### Steps to use Heritrix
+## Steps to use Heritrix
 
 **1. Installing Heritrix on Windows**
 - Download the latest stable release of Heritrix (zip file). 

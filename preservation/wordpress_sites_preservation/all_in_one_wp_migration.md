@@ -8,7 +8,7 @@ nav_order: 6
 ## All-in-One WP Migration
 A tool on WordPress allows users to import an entire WordPress site, including plugins, themes, content and user data. The generated backup of this tool can be stored externally or downloaded for archival purposes.
 
-### Steps to use All-in-One WP Migration to preserve a WordPress website
+## Steps to use All-in-One WP Migration to preserve a WordPress website
 
 **a. Install All-in-One WP Migration**
 1. Log in to your WordPress admin dashboard. 

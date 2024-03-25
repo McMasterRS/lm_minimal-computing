@@ -9,7 +9,7 @@ nav_order: 7
 
 A WordPress plugin designed for converting a WordPress website into a static version site. It preserves your WordPress site int HTML, CSS, JavaScript files. It excludes any dynamic functionalities that rely on server-side processing.
 
-### Steps to use Simply Static to convert a WordPress website to a static site: 
+## Steps to use Simply Static to convert a WordPress website to a static site: 
 
 **a. Install Simply Static** 
 1. Log in to your WordPress admin dashboard.
