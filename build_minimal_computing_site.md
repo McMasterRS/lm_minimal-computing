@@ -123,7 +123,7 @@ Example of “main.scss”
 
 --- 
 /* load _sass/minima.scss */ 
-@import "{{ site.theme }}"; 
+@import "minima"; 
 @import "custom" 
 ```
  
