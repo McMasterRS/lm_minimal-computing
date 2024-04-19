@@ -9,7 +9,7 @@ nav_order: 6
 # Building and Customizing a minimal computing site
 Building a minimal computing site involves creating a website with a focus on simplicity, efficiency, and accessibility. It minimize the resources required to host and access the site, which make it more sustainable and accessible in environments that are having limited internet connectivity or technological infrastructure.​
 
-Jekyll is a free open-source SSG that is built and runs on the Ruby programming language. It is a popular choice for building a minimal computing site due to its simplicity, flexibility, and efficiency.
+Jekyll is a free open-source static site generator that is built and runs on the Ruby programming language. It is a popular choice for building a minimal computing site due to its simplicity, flexibility, and efficiency.
 
 ## Steps to Build a minimal Computing site
 1. Install Jekyll. 
