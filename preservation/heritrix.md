@@ -26,7 +26,7 @@ It is providing a web-based user interface for configuring, starting, pausing, a
     1. Open a Command Prompt in administrator mode. 
     2. Navigate to the Heritrix installation directory (e.g., cd C:\Heritrix). 
     3. Run the following command to start Heritrix:
-    ```bash
+    ```powershell
     bin\heritrix.cmd -a admin:admin
     ```
     4. Replace "admin" with your desired username and with your chosen password.

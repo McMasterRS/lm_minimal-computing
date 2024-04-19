@@ -13,7 +13,7 @@ Jekyll is a free open-source static site generator that is built and runs on the
 
 ## Steps to Build a minimal Computing site
 1. Install Jekyll. 
-2. Open Command Prompt CMD. 
+2. Open the terminal. 
 3. Go to the directory where you want to save the site. For example, “C:\Users\user\Documents” 
 4. Run the commands
 
