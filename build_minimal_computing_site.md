@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Building a Minimal Computing Site
-has_children: true
 has_toc: true
 nav_order: 8
 ---
