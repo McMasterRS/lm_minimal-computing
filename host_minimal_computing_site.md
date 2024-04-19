@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Hosting Minimal Computing Site on GitHub Pages
-# has_children: true
-has_toc: true
-nav_order: 9
+nav_order: 7
 ---
 
 ## Host minimal computing site on GitHub pages 
@@ -24,14 +22,14 @@ nav_order: 9
 3. Click “Commit changes” button. 
 
 ### C. Edit the _config.yml file
-1. Open _config.yml file. 
+1. Open `_config.yml` file. 
 2. Click on the pencil edit icon in the corner to start editing the file. 
-3. Edit the value of the baseurl to add the sub path of your site.For example,
-```ts
+3. Edit the value of the baseurl to add the sub path of your site. For example,
+```yaml
 baseurl: "/minima-template". 
 ```
 4. Edit the value of the url to add the base hostname for your site. For example,
-```ts
+```yaml
 url: "https://example.github.io" 
 ```
 5. Click on “commit changes” button 

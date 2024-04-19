@@ -17,23 +17,21 @@ nav_order: 4
 
 ### Steps to use Internet Archive Wayback Machine
 
-**1. Steps to archive a page on a website**
+1. **Steps to archive a page on a website**
+    1. Visit [https://web.archive.org/](https://web.archive.org/). 
+    2. Type the URL of the site you want to save into the "Save Page Now" field. 
+    3. Ensure that you enter the specific address you want, as the Wayback Machine only archives content on one page, not other linked pages. 
+    4. Click on the grey SAVE PAGE button. 
+    5. A loading icon will appear until the green "✅Done!" is displayed. 
+    6. A link will be provided to visit the archived page.
 
-- Visit [https://web.archive.org/](https://web.archive.org/). 
-- Type the URL of the site you want to save into the "Save Page Now" field. 
-- Ensure that you enter the specific address you want, as the Wayback Machine only archives content on one page, not other linked pages. 
-- Click on the grey SAVE PAGE button. 
-- A loading icon will appear until the green ‘’✅Done!’’ is displayed. 
-- A link will be provided to visit the archived page.
-
-**2. Steps to view archived websites**
-
-- Visit [https://web.archive.org/](https://web.archive.org/). 
-- Type the URL of the site you want to view into the field labeld "Enter a URL or words related to a site’s home page". 
-- Press Enter. 
-- A bar graph and calendar will be displayed. 
-- There are black bars that display how many times the page was archived by Wayback Machine. 
-- In the bar click on the year to view the 12-month calendar showing all the dates in that year. 
-- Green or blue circles will be displayed around the dates that the website archived on. 
-- Hover over the date to see the list of archive times. 
-- Select a time to view the content. 
+2. **Steps to view archived websites**
+    1. Visit [https://web.archive.org/](https://web.archive.org/). 
+    2. Type the URL of the site you want to view into the field labeld "Enter a URL or words related to a site’s home page". 
+    3. Press Enter. 
+    4. A bar graph and calendar will be displayed. 
+    5. There are black bars that display how many times the page was archived by Wayback Machine. 
+    6. In the bar click on the year to view the 12-month calendar showing all the dates in that year. 
+    7. Green or blue circles will be displayed around the dates that the website archived on. 
+    8. Hover over the date to see the list of archive times. 
+    9. Select a time to view the content. 
