@@ -18,7 +18,7 @@ In your Jekyll folder:
 
     An example of the `header_pages.yml` file content is provided below:
 
-    ```bash
+    ```yaml
     links:
     - title: "Home"
     href: "/"
