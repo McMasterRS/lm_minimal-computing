@@ -6,8 +6,8 @@ nav_order: 11
 ---
 # Steps to modify the Header and include a custom Navbar 
 
-## 1. Create a menu.yml file
-To configure our navigation bar (navbar), we utilize the menu.yml file to outline the structure of the navbar by specifying the header pages that we want to add in the navbar, and indicating any dropdown or nested dropdown menus to include.
+## 1. Create a header_pages.yml file
+To configure our navigation bar (navbar), we utilize the header_pages.yml file to outline the structure of the navbar by specifying the header pages that we want to add in the navbar, and indicating any dropdown or nested dropdown menus to include.
 
 In your Jekyll folder:
 
@@ -15,7 +15,7 @@ In your Jekyll folder:
 
 **b. In the _data folder, create a file named "header_pages.yml".**
 
-An example of the menu.yml file content is provided below:
+An example of the header_pages.yml file content is provided below:
 
 ```ts
 links:
@@ -159,7 +159,7 @@ An example of the nav.html file content is provided below:
 </script>
 {% endraw %}
 ```
-## Include the navbar in the header file
+## 3. Include the navbar in the header file
 
 **a. In the _includes folder, create a file named "header.html".**
 
