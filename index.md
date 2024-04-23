@@ -4,19 +4,24 @@ title: Introduction
 nav_order: 1
 ---
 
-## Minimal Computing 
+## Minimal Computing
 
-Minimal computing is the idea of doing the most with the least technology possible, computing done under some set of significant constraints of hardware, software, education, network capacity, power, or other factors. Minimal computing emphasizes simplicity, efficiency, and a focus on the essential elements needed to accomplish a task or project. It seeks to make digital resources more available, particularly in constrained environments or for individuals and communities with limited access to high-end computing infrastructure.
+![minimal_computing_intro_image](assets/img/minimal_computing_intro_image.png) 
+_Image retrieved from [https://jntry.work/minimalcomputing/](https://jntry.work/minimalcomputing/)_
 
-**Pros of Minimal Computing** 
-- Simplicity
-- Accessibility
-- Security
-- Cost
-- Low Resource Requirements
-- Focus On Content
+Throughout this learning module, you will explore the principles and practices of minimal computing, a methodology focused on simplicity, accessibility, and sustainability in digital projects.
 
-**Cons of Minimal Computing**
-- Limited Functionality
-- Dependency on Specific Platforms or Tools
-- Performance Constraints
+1. **Introduction to Minimal Computing**: This section introduces the concept of minimal computing, discussing its advantages and disadvantages.
+2. **Website Preservation**: This section introduces the concept of website preservation and provides steps for preserving a site using the Heritrix tool.
+3. **WordPress Site Preservation**: Here, we offer examples of two tools, All-in-One WP Migration and Simply Static, along with steps for preserving a WordPress site.
+4. **Building a Minimal Computing Site**: Learn how to create a minimal computing site from scratch using the Jekyll tool.
+5. **Customizing a Minima Jekyll Theme**: Discover how to customize a minimal computing site that uses the Minima theme.
+6. **Hosting a Minimal Computing Site on GitHub Pages**: Finally, explore how to host a minimal computing site on GitHub Pages.
+
+### Learning Outcomes:
+
+By the end of this module, readers will:
+- Understand the principles and significance of minimal computing.
+- Apply strategies for effectively preserving digital content.
+- Create and customize minimal computing sites using Jekyll.
+- Deploy and host minimal computing sites on GitHub Pages.
