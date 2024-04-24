@@ -150,123 +150,123 @@ To customize the default landing page "index.markdown" in the Minima theme, foll
 
     **Example of Custom stylesheet for the index.md page**
 
-        ```ts
-        // custom landing page stylesheet
+    ```ts
+    // custom landing page stylesheet
 
-        //banner section
-        .banner-title {
-            display: flex;
-            padding: 2% 13%;
-            background: #e1e1e1;
-            align-items: center;
-            counter-reset: 10px;
-        }
+    //banner section
+    .banner-title {
+        display: flex;
+        padding: 2% 13%;
+        background: #e1e1e1;
+        align-items: center;
+        counter-reset: 10px;
+    }
 
-        .left-text {
-            flex: 1;
-        }
+    .left-text {
+        flex: 1;
+    }
 
-        .left-text h1 {
-            font-weight: 600;
-        }
+    .left-text h1 {
+        font-weight: 600;
+    }
 
-        .right-text {
-            flex: 3;
-        }
+    .right-text {
+        flex: 3;
+    }
 
-        // images section
-        .image-split-background {
-            width: 50%;
-            position: relative;
-        }
+    // images section
+    .image-split-background {
+        width: 50%;
+        position: relative;
+    }
 
-        .image-split-background::before {
-            content: "";
-            width: 100%;
-            height: 100%;
-            background: url('./assets/img/indexairindia.webp') no-repeat center;
-            background-size: cover;
-            position: absolute;
-            top: 0;
-            right: 0;
-            border-top-left-radius: 50% 100px;
-            border-bottom-left-radius: 50% 100px;
-            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-        }
+    .image-split-background::before {
+        content: "";
+        width: 100%;
+        height: 100%;
+        background: url('./assets/img/indexairindia.webp') no-repeat center;
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        right: 0;
+        border-top-left-radius: 50% 100px;
+        border-bottom-left-radius: 50% 100px;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
 
-        .image-container {
-            max-width: 1360px;
-            margin: 0 auto;
-            padding: 80px 0;
-        }
+    .image-container {
+        max-width: 1360px;
+        margin: 0 auto;
+        padding: 80px 0;
+    }
 
-        .images-list {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-            row-gap: 20px;
-            align-content: space-between;
-            padding: 0 50px;
-        }
+    .images-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        row-gap: 20px;
+        align-content: space-between;
+        padding: 0 50px;
+    }
 
-        .images-list a {
-            width: 367px;
-            height: 100%;
-            background-size: cover;
-            opacity: 0.7;
-            background-position: center;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            padding: 20px;
-            color: white;
-            font-weight: bold;
-        }
+    .images-list a {
+        width: 367px;
+        height: 100%;
+        background-size: cover;
+        opacity: 0.7;
+        background-position: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 20px;
+        color: white;
+        font-weight: bold;
+    }
 
-        .images-list a.landing-image1 {
-            background-image: url(/assets/img/landing_image1.jpg);
-        }
+    .images-list a.landing-image1 {
+        background-image: url(/assets/img/landing_image1.jpg);
+    }
 
-        .images-list a.landing-image2 {
-            background-image: url(/assets/img/landing_image2.jpg);
-        }
+    .images-list a.landing-image2 {
+        background-image: url(/assets/img/landing_image2.jpg);
+    }
 
-        .images-list a.landing-image3 {
-            background-image: url(/assets/img/landing_image3.webp);
-        }
+    .images-list a.landing-image3 {
+        background-image: url(/assets/img/landing_image3.webp);
+    }
 
-        .images-list a.landing-image4 {
-            background-image: url(/assets/img/landing_image4.webp);
-        }
+    .images-list a.landing-image4 {
+        background-image: url(/assets/img/landing_image4.webp);
+    }
 
-        .images-list a.landing-image5 {
-            background-image: url(/assets/img/landing_image5.jpg);
-        }
+    .images-list a.landing-image5 {
+        background-image: url(/assets/img/landing_image5.jpg);
+    }
 
-        .images-list a.landing-image6 {
-            background-image: url(/assets/img/landing_image6.jpg);
-        }
+    .images-list a.landing-image6 {
+        background-image: url(/assets/img/landing_image6.jpg);
+    }
 
-        .images-list h2 {
-            font-weight: 900;
+    .images-list h2 {
+        font-weight: 900;
 
-        }
-        .images-list .explore {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
+    }
+    .images-list .explore {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 
-        .images-list img {
-            width: 32px;
-        }
-        // news section
-        .news-section .images-list a {
-            width: 100%;
-        }
+    .images-list img {
+        width: 32px;
+    }
+    // news section
+    .news-section .images-list a {
+        width: 100%;
+    }
 
-        .news-section .images-list a.news-href {
-            background: white;
-            color: black;
-        }
-        ```
+    .news-section .images-list a.news-href {
+        background: white;
+        color: black;
+    }
+    ```

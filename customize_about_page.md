@@ -37,7 +37,8 @@ To customize the default about page "about.markdown" in the Minima theme, follow
 
     **Example of about.markdown page:**
 
-        ```ts
+    ```ts
+        {% raw %}
         ---
         layout: about
         permalink: /about-us/
@@ -216,78 +217,78 @@ To customize the default about page "about.markdown" in the Minima theme, follow
                 </div>
             </div>
         </div>
-
-        ```
+        {% endraw %}
+    ```
 
 - Below is the custom stylesheet for the about.markdown page to be added in the custom.scss file.
 
     **Example of Custom stylesheet for the about.md page**
 
-        ```ts
-        //custom stylesheet for the About page
-        .about-us-content {
-            padding: 0 0 16px 45px;
-            border-bottom: 2px solid white;
-        }
-        .title h2 {
-            font-weight: bold;
-        }
-        .about-us-vision-content {
-            display: flex;
-            align-items: center;
-            column-gap: 56px;
-        }
-        .about-us-vision-image {
-            flex: 1;
-            font-size: 10px;
-        }
-        .about-us-vision-text {
-            flex: 1;
-        }
-        .video-content {
-            display: flex;
-            align-items: center;
-            column-gap: 50px;
-        }
-        .about-us-video-content {
-            text-align: center;
-            font-weight: bold;
-        }
-        .about-us-video-content p {
-            margin-bottom: 35px;
-        }
-        .about-us-video-content a {
-            background: #5d6247;
-            color: white;
-            padding: 15px 36px;
-            border-radius: 50px;
-        }
-        .about-us-teams {
-            display: flex;
-            flex-wrap: wrap;
-            column-gap: 10px;
-            row-gap: 29px;
-            justify-content: space-between;
-        }
+    ```ts
+    //custom stylesheet for the About page
+    .about-us-content {
+        padding: 0 0 16px 45px;
+        border-bottom: 2px solid white;
+    }
+    .title h2 {
+        font-weight: bold;
+    }
+    .about-us-vision-content {
+        display: flex;
+        align-items: center;
+        column-gap: 56px;
+    }
+    .about-us-vision-image {
+        flex: 1;
+        font-size: 10px;
+    }
+    .about-us-vision-text {
+        flex: 1;
+    }
+    .video-content {
+        display: flex;
+        align-items: center;
+        column-gap: 50px;
+    }
+    .about-us-video-content {
+        text-align: center;
+        font-weight: bold;
+    }
+    .about-us-video-content p {
+        margin-bottom: 35px;
+    }
+    .about-us-video-content a {
+        background: #adc1c7;
+        color: white;
+        padding: 15px 36px;
+        border-radius: 50px;
+    }
+    .about-us-teams {
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 10px;
+        row-gap: 29px;
+        justify-content: space-between;
+    }
 
-        .about-us-team-member {
-            flex: 0 0 23%;
-            background: white;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 35px 40px;
-            row-gap: 12px;
-        }
-        .about-us-team-member img {
-            border-radius: 50%;
-            border: 3px solid #fdbf57;
-        }
-        .about-us-team-member .line {
-            margin: 0 auto;
-        }
-        .about-us-team-member .line {
-            width: 49px;
-            border-bottom: 5px solid #b6b333;
-        }
-        ```
+    .about-us-team-member {
+        flex: 0 0 23%;
+        background: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 35px 40px;
+        row-gap: 12px;
+    }
+    .about-us-team-member img {
+        border-radius: 50%;
+        border: 3px solid #fdbf57;
+    }
+    .about-us-team-member .line {
+        margin: 0 auto;
+    }
+    .about-us-team-member .line {
+        width: 49px;
+        border-bottom: 5px solid #b6b333;
+    }
+    ```
