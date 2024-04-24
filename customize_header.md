@@ -21,6 +21,12 @@ An example of the header_pages.yml file content is provided below:
 links:
 - title: "Home"
   href: "/"
+- title: "Locations"
+  href: "/locations/"
+- title: "Our Vision"
+  href: "/vision"
+- title: "Resources"
+  href: "/resources/"
 - title: "Articls"
   subcategories:
     - subtitle: "Popular Articles"
@@ -32,16 +38,8 @@ links:
           subhref: "/articles/article1/"
         - subtitle: "Article2"
           subhref: "/articles/article2/"
-- title: "Resources"
-  subcategories:
-    - subtitle: "Resources"
-      subhref: "/resources/"
-    - subtitle: "Books"
-      subhref: "/resources/books/"
 - title: "About"
   href: "/about-us"
-- title: "Contact Us"
-  href: "/contact-us"
 ```
 ## 2. Create a nav.html file
 
