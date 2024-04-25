@@ -5,7 +5,7 @@ parent: Customizing a Minima Jekyll theme
 nav_order: 3
 ---
 
-## Create a File Named `footer_pages.yml` in `_data` folder
+### Create a File Named `footer_pages.yml` in `_data` folder
 
 An example of the `footer_pages.yml` file content is provided below:
 
@@ -16,7 +16,7 @@ links:
   - privacypolicy.md
 ```
 
-## Create a File Named `footer.html` in `_includes` folder
+### Create a File Named `footer.html` in `_includes` folder
 
 An example of the `footer.html` file content is provided below:
 
@@ -42,3 +42,36 @@ An example of the `footer.html` file content is provided below:
   </footer>
 {% endraw %}
 ```
+### Add custom Stylesheet for the Navbar
+
+In the `custom.scss` file add the code below to customize your footer stylesheet.
+
+  ```css
+  // custom footer stylesheet
+  .footer-links {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      row-gap: 20px;
+  }
+
+  .footer-links .svg-icon {
+      width: 25px;
+      height: 25px;
+  }
+
+  .footer-links a {
+      color: rgb(0, 0, 0);
+      margin: 0 20px;
+  }
+
+  .footer-links a.page-link {
+      margin: 0 30px;
+  }
+
+  .line {
+      background: rgba(255, 255, 255, 0.2);
+      padding: 1px;
+      width: 100%;
+  }
+  ```

@@ -22,6 +22,12 @@ In your Jekyll folder:
     links:
     - title: "Home"
     href: "/"
+    - title: "Locations"
+    href: "/locations/"
+    - title: "Our Vision"
+    href: "/vision"
+    - title: "Resources"
+    href: "/resources/"
     - title: "Articls"
     subcategories:
         - subtitle: "Popular Articles"
@@ -33,16 +39,8 @@ In your Jekyll folder:
             subhref: "/articles/article1/"
             - subtitle: "Article2"
             subhref: "/articles/article2/"
-    - title: "Resources"
-    subcategories:
-        - subtitle: "Resources"
-        subhref: "/resources/"
-        - subtitle: "Books"
-        subhref: "/resources/books/"
     - title: "About"
     href: "/about-us"
-    - title: "Contact Us"
-    href: "/contact-us"
     ```
 
 ### Create a `nav.html` file

@@ -18,15 +18,16 @@ In your Jekyll folder:
 
     Example of `custom.scss` stylesheet changes to customize the site header and footer: 
     ```css
-    /* Put any custom CSS here */
+    /* General custom stylesheet */
         * {
-        box-sizing: border-box;
-        margin: 0;
-        border: 0;
-        padding: 0;
-        text-decoration: none;
-        list-style-type: none;
+            box-sizing: border-box;
+            margin: 0;
+            border: 0;
+            padding: 0;
+            text-decoration: none;
+            list-style-type: none;
         }
+
         /*Site header*/
         .site-header {
             background: #fff;
@@ -47,6 +48,30 @@ In your Jekyll folder:
             border-top: 1px solid #e8e8e8;
             padding: 30px 0;
             background: #adc1c7;
+        }
+
+        .wrapper {
+            max-width: none;
+            padding-right: 0;
+            padding-left: 0;
+        }
+
+        .blue-background {
+            background: #adc1c7;
+            color: white;
+        }
+        .yellow-background {
+            background: #ebe6c8;
+        }
+        .page-content {
+            padding: 0;
+        }
+        .post-content {
+            margin: 0;
+        }
+        .page-wrapper {
+            margin: 0% 6%;
+            padding: 40px 0;
         }
     ```
 
