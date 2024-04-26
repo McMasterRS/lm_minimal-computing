@@ -75,3 +75,6 @@ In this section, you will be provided with steps to create a `locations.md` page
         background: white;
     }
     ```
+
+4. Go back to your browser. Your locations page should now look like this: 
+    ![locations-Page](assets/img/locations_page.png)

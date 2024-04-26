@@ -32,7 +32,7 @@ nav_order: 4
     layout: home
     ---
     ```
-3. **Add your landing page custom content.**
+5. **Add your landing page custom content.**
 
     1. Below we will provide you with an example of a landing page that contains a Banner section, an Images section, and a News section.
 
@@ -270,3 +270,6 @@ nav_order: 4
             color: black;
         }
         ```
+
+6. Go back to your browser. Your landing page should now look like this: 
+    ![index-Page](assets/img/index_page.png)
