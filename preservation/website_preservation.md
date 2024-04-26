@@ -5,19 +5,19 @@ has_children: true
 has_toc: true
 nav_order: 4
 ---
-## Web Archiving
+# Web Archiving
 
 *"Web archiving is simply the act of collecting and preserving websites in an archive. It's the best way to capture website content in an immutable and time-stamped form that facilitates compliance, litigation, and overall information governance.*​
 *Companies and organizations archive website content for various reasons; it could be to comply with industry standards, protect themselves from intellectual property theft and false claims, or simply preserve their history as they make changes to their existing website or implement a brand-new one."* [1]( https://blog.pagefreezer.com/reasons-companies-should-archive-websites)
 
 
-### Internet Archive Wayback Machine
+## Internet Archive Wayback Machine
 
 *"The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites. Visitors to the Wayback Machine can type in a URL, select a date range, and then begin surfing on an archived version of the Web. Imagine surfing circa 1999 and looking at all the Y2K hype or revisiting an older version of your favorite Web site. The Internet Archive Wayback Machine can make all of this possible."*[2]( https://help.archive.org/help/wayback-machine-general-information/)
 
-### Steps to use Internet Archive Wayback Machine
+## Steps to use Internet Archive Wayback Machine
 
-**1. Steps to archive a page on a website**
+### 1. Steps to archive a page on a website
 
 - Visit [https://web.archive.org/](https://web.archive.org/). 
 - Type the URL of the site you want to save into the "Save Page Now" field. 
@@ -26,7 +26,7 @@ nav_order: 4
 - A loading icon will appear until the green ‘’✅Done!’’ is displayed. 
 - A link will be provided to visit the archived page.
 
-**2. Steps to view archived websites**
+### 2. Steps to view archived websites
 
 - Visit [https://web.archive.org/](https://web.archive.org/). 
 - Type the URL of the site you want to view into the field labeld "Enter a URL or words related to a site’s home page". 
