@@ -270,3 +270,5 @@ To customize the default landing page "index.markdown" in the Minima theme, foll
         color: black;
     }
     ```
+- Go back to your browser. Your landing page should now look like this: 
+![index-Page](assets/img/index_page.png)

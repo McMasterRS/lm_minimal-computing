@@ -91,7 +91,7 @@ To customize the default about page "about.markdown" in the Minima theme, follow
 
         <div class="about-us-team yellow-background">
             <div class="page-wrapper">
-                <div class="title"><h2>TEAM Members</h2></div>
+                <div class="title"><h2>Team Members</h2></div>
                     <div class="about-us-teams">
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
@@ -292,3 +292,5 @@ To customize the default about page "about.markdown" in the Minima theme, follow
         border-bottom: 5px solid #b6b333;
     }
     ```
+- Go back to your browser. Your about page should now look like this: 
+![about-Page](assets/img/about_page.png)
