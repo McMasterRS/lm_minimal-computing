@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Hosting Minimal Computing Site on GitHub Pages
-# has_children: true
 has_toc: true
 nav_order: 9
 ---
