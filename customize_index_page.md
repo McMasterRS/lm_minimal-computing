@@ -153,7 +153,7 @@ To customize the default landing page "index.markdown" in the Minima theme, foll
     ```ts
     // custom landing page stylesheet
 
-    //banner section
+    //banner
     .banner-title {
         display: flex;
         padding: 2% 13%;
@@ -174,7 +174,7 @@ To customize the default landing page "index.markdown" in the Minima theme, foll
         flex: 3;
     }
 
-    // images section
+    // image section
     .image-split-background {
         width: 50%;
         position: relative;
@@ -184,7 +184,6 @@ To customize the default landing page "index.markdown" in the Minima theme, foll
         content: "";
         width: 100%;
         height: 100%;
-        background: url('./assets/img/indexairindia.webp') no-repeat center;
         background-size: cover;
         position: absolute;
         top: 0;
@@ -224,27 +223,27 @@ To customize the default landing page "index.markdown" in the Minima theme, foll
     }
 
     .images-list a.landing-image1 {
-        background-image: url(/assets/img/landing_image1.jpg);
+        background-image: url(../assets/img/landing_image1.jpg);
     }
 
     .images-list a.landing-image2 {
-        background-image: url(/assets/img/landing_image2.jpg);
+        background-image: url(../assets/img/landing_image2.jpg);
     }
 
     .images-list a.landing-image3 {
-        background-image: url(/assets/img/landing_image3.webp);
+        background-image: url(../assets/img/landing_image3.webp);
     }
 
     .images-list a.landing-image4 {
-        background-image: url(/assets/img/landing_image4.webp);
+        background-image: url(../assets/img/landing_image4.webp);
     }
 
     .images-list a.landing-image5 {
-        background-image: url(/assets/img/landing_image5.jpg);
+        background-image: url(../assets/img/landing_image5.jpg);
     }
 
     .images-list a.landing-image6 {
-        background-image: url(/assets/img/landing_image6.jpg);
+        background-image: url(../assets/img/landing_image6.jpg);
     }
 
     .images-list h2 {
