@@ -152,7 +152,7 @@ nav_order: 4
 
         ```css
         /* custom landing page stylesheet */
-        /* banner section */
+        /* banner */
         .banner-title {
             display: flex;
             padding: 2% 13%;
@@ -173,7 +173,7 @@ nav_order: 4
             flex: 3;
         }
 
-        /* images section */
+        /* images */
         .image-split-background {
             width: 50%;
             position: relative;
@@ -223,27 +223,27 @@ nav_order: 4
         }
 
         .images-list a.landing-image1 {
-            background-image: url(/assets/img/landing_image1.jpg);
+            background-image: url(../assets/img/landing_image1.jpg);
         }
 
         .images-list a.landing-image2 {
-            background-image: url(/assets/img/landing_image2.jpg);
+            background-image: url(../assets/img/landing_image2.jpg);
         }
 
         .images-list a.landing-image3 {
-            background-image: url(/assets/img/landing_image3.webp);
+            background-image: url(../assets/img/landing_image3.webp);
         }
 
         .images-list a.landing-image4 {
-            background-image: url(/assets/img/landing_image4.webp);
+            background-image: url(../assets/img/landing_image4.webp);
         }
 
         .images-list a.landing-image5 {
-            background-image: url(/assets/img/landing_image5.jpg);
+            background-image: url(../assets/img/landing_image5.jpg);
         }
 
         .images-list a.landing-image6 {
-            background-image: url(/assets/img/landing_image6.jpg);
+            background-image: url(../assets/img/landing_image6.jpg);
         }
 
         .images-list h2 {

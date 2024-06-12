@@ -61,7 +61,7 @@ nav_order: 6
             <div class="page-wrapper">
                 <div class="about-us-vision-content">
                     <div class="about-us-vision-image">
-                        <img src="/assets/img/about_vision_image.jpg" alt="">
+                        <img src="assets/img/about_vision_image.jpg" alt="">
                         <p>Image retrived from https://pixabay.com/</p>
                     </div>
                     <div class="about-us-vision-text">    
@@ -95,7 +95,7 @@ nav_order: 6
                     <div class="about-us-teams">
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
-                                <img src="/assets/img/about_teams.webp" alt="" />
+                                <img src="assets/img/about_teams.webp" alt="" />
                             </div>
                             <div class="about-us-team-member-name">
                                 <p>Name</p>
@@ -110,7 +110,7 @@ nav_order: 6
                         </div>
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
-                                <img src="/assets/img/about_teams.webp" alt="" />
+                                <img src="assets/img/about_teams.webp" alt="" />
                             </div>
                             <div class="about-us-team-member-name">
                                 <p>Name</p>
@@ -125,7 +125,7 @@ nav_order: 6
                         </div>
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
-                                <img src="/assets/img/about_teams.webp" alt="" />
+                                <img src="assets/img/about_teams.webp" alt="" />
                             </div>
                             <div class="about-us-team-member-name">
                                 <p>Name</p>
@@ -140,7 +140,7 @@ nav_order: 6
                         </div>
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
-                                <img src="/assets/img/about_teams.webp" alt="" />
+                                <img src="assets/img/about_teams.webp" alt="" />
                             </div>
                             <div class="about-us-team-member-name">
                                 <p>Name</p>
@@ -155,7 +155,7 @@ nav_order: 6
                         </div>
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
-                                <img src="/assets/img/about_teams.webp" alt="" />
+                                <img src="assets/img/about_teams.webp" alt="" />
                             </div>
                             <div class="about-us-team-member-name">
                                 <p>Name</p>
@@ -170,7 +170,7 @@ nav_order: 6
                         </div>
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
-                                <img src="/assets/img/about_teams.webp" alt="" />
+                                <img src="assets/img/about_teams.webp" alt="" />
                             </div>
                             <div class="about-us-team-member-name">
                                 <p>Name</p>
@@ -185,7 +185,7 @@ nav_order: 6
                         </div>
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
-                                <img src="/assets/img/about_teams.webp" alt="" />
+                                <img src="assets/img/about_teams.webp" alt="" />
                             </div>
                             <div class="about-us-team-member-name">
                                 <p>Name</p>
@@ -200,7 +200,7 @@ nav_order: 6
                         </div>
                         <div class="about-us-team-member">
                             <div class="about-us-team-member-image">
-                                <img src="/assets/img/about_teams.webp" alt="" />
+                                <img src="assets/img/about_teams.webp" alt="" />
                             </div>
                             <div class="about-us-team-member-name">
                                 <p>Name</p>
@@ -217,6 +217,7 @@ nav_order: 6
                 </div>
             </div>
         </div>
+
         {% endraw %}
         ```
 
