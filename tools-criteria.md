@@ -2,7 +2,7 @@
 layout: default
 title: Selecting tools for Minimal Computing and Preservation Projects
 has_toc: true
-nav_order: 8
+nav_order: 9
 ---
 
 # Selecting tools for Minimal Computing and Preservation Projects
