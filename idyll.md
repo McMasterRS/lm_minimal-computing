@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Idyll
-parent: Building a Minimal Computing Site
-nav_order: 1
+title: Building a Minimal Computing Site with Idyll
+nav_order: 7
 ---
 
 ## Idyll
