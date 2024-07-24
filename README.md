@@ -2,7 +2,7 @@
 
 Materials for the McMaster Research Software learning module: **Introduction to Minimal Computing**  
 
-This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/lm_minimal_computing) with GitHub Pages.  
+This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/lm_minimal-computing) with GitHub Pages.  
 
 Contributions by the following individuals: 
 - Learning module content created by Ola Hejazi
