@@ -7,24 +7,35 @@ nav_order: 9
 
 # Selecting tools for Minimal Computing and Preservation Projects
 
-Selecting the right tools for minimal computing or preservation projects involves balancing simplicity and functionality, which is crucial for the success and sustainability of these projects. Below we provide you with some key considerations to keep in mind when choosing tools to ensure that they align with the goals of your project and contribute to its long-term success.
- 
+Selecting the right tools for minimal computing or preservation projects involves balancing simplicity and functionality, which are crucial for the success and sustainability of these projects. Below we provide you with some key considerations to keep in mind when choosing tools to ensure that they align with the goals of your project and contribute to its long-term success.
+
 ## Key Consideration for Tools Selection
 
-- ### Accessibility and Resource Efficiency
-    It is better to choose tools that require minimal power consumption. Also, check if it can operate with limited internet access, that will make them more accessible for environments with restricted access to high-end computing infrastructure.
+- ### Dependencies
+    When choosing a minimal computing tool, it’s crucial to evaluate the number of additional software components it relies on to function properly. Opting for tools with fewer external dependencies can simplify maintenance and reduce potential issues. Consider asking questions such as:
 
-- ### Minimize Dependencies
-    It is important to check the number of tool dependencies required to run the tool. You should consider selecting tools that come with minimal external dependencies. This will reduce complexity and the risk of dependencies becoming outdated over time.
+    - **How many other software packages does this tool depend on?** Understanding the extent of dependencies helps gauge the complexity and potential challenges in managing the tool.
 
-- ### Community Support
-    Check the availability of community support for the tool. A wide and active community can greatly help in the development process by providing support, updates, and enhancements.
+    - **What happens if one or more of these packages are no longer supported or available?** This question addresses the risk of relying on external software that might become obsolete or unsupported, which could impact the functionality of your tool.
     
-- ### Open Source
-    Open source tools allow for collaboration and long-term maintenance by ensuring that everyone can access, modify, and redeploy the software.
+    By carefully considering these factors, you can select tools that are more robust and reduce the risk of dependencies becoming outdated. Eventually, making your minimal computing site easier to manage over time.
 
-- ### Documentation
-    A well-documented tool with clear instructions for installation, configuration, and usage can greatly assist you when integrating it into your project. Comprehensive documentation is essential for users to effectively utilize the tool without extensive training.
+- ### Accessibility
+    It is also essential to consider the tool's hardware requirements and the accessibility of modern hardware for your users. Key questions to ask include:
 
-- ### Version Control
-    Check if the tool uses a version control system like GitHub to track changes and manage updates. Version control helps in understanding the evolution of the tool and facilitates collaboration among developers.
+    - **Does the tool require a stable and persistent internet connection to function?** Understanding the tool’s reliance on internet connectivity helps determine its usability in environments with varying network stability.
+
+    - **Is the tool compatible with older generation hardware or software (such as Internet Explorer)?** This question assesses the tool’s flexibility and ensures it can be used by users with outdated systems.
+
+    By addressing these considerations, you can ensure your minimal computing site is accessible for users in for environments with restricted access to high-end computing infrastructure and functional for a broader range of users, regardless of their hardware or software limitations.
+
+- ### General Selection Criterion
+    Besides the considerations above, please also consider some general selection criteria.
+
+    - **Developer-friendliness**. Consider the ease of use and the learning curve associated with the tool. And how much time do you have in your project timeline for developers to learn a new and complex framework?
+
+    - **Availability of Documentation and Community**. A strong community can provide valuable resources, comprehensive documentation and reliable support. This can be invaluable for troubleshooting and maximizing the tool’s potential and support network.
+
+    - **Scalability**. Ensure the tool can scale according to your needs. It should handle increasing workloads without significant performance degradation.
+
+    For more details, please visit [our technology stack selection learning module](https://mcmasterrs.github.io/lm_tech-stack/outline.html).  
