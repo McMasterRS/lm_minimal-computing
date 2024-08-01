@@ -12,7 +12,7 @@ Make sure you have Git installed on your system. If you need help installing Git
 Once you have Git installed, you can clone the customized Minima theme template used in this learning module by opening a terminal window and running the following command:
 
 ```bash
-git clone https://github.com/McMasterRS/minimal-computing-web-guide
+git clone https://github.com/McMasterRS/lmr_minimal-computing
 ```
 
-You will now have an `minimal-computing-web-guide` repo on your local machine.
+You will now have an `lmr_minimal-computing` repo on your local machine.

@@ -4,24 +4,26 @@ title: Hosting Minimal Computing Site on GitHub Pages
 nav_order: 8
 ---
 
-## Host minimal computing site on GitHub pages 
+# Host minimal computing site on GitHub pages
 
-### A. Creating a repository on GitHub
+Jekyll can be used to generate web pages for a variety of web hosting tools. Here we describe how to host these Jekyll pages with GitHub Pages.
+
+## A. Creating a repository on GitHub
 1. Login to GitHub. 
 2. From the menu go to “Your repositories.” 
 3. Click on “New” button to create a new repository. 
 4. Select the Owner. 
-5. Type the repository name. For example, “minima-template” 
+5. Type the repository name. For example, “minima-template”.
 6. Check the checkbox to add a README file. 
 7. Click on “Create repository” button. 
 
-### B. Uploading Files to the repository
+## B. Uploading Files to the repository
 
 1. On the new repository main page click on “add file” button and select “Upload files” option. 
 2. Upload all the files that are in the “minima-site” folder. 
 3. Click “Commit changes” button. 
 
-### C. Edit the _config.yml file
+## C. Edit the `_config.yml` file
 1. Open `_config.yml` file. 
 2. Click on the pencil edit icon in the corner to start editing the file. 
 3. Edit the value of the baseurl to add the sub path of your site. For example,
@@ -32,10 +34,10 @@ baseurl: "/minima-template".
 ```yaml
 url: "https://example.github.io" 
 ```
-5. Click on “commit changes” button 
+5. Click on “commit changes” button.
 6. Add a proper message to explain your changes. Then Click on “Commit changes” button. 
 
-### D. Deploy the Site 
+## D. Deploy the Site 
 
 1. Navigate to “Settings.” 
 2. Go to the “Pages” tab. 

@@ -16,7 +16,7 @@ Another fundamental aspect of web archiving is its adherence to the FAIR princip
 
 ## Internet Archive Wayback Machine
 
-*"The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites. Visitors to the Wayback Machine can type in a URL, select a date range, and then begin surfing on an archived version of the Web. Imagine surfing circa 1999 and looking at all the Y2K hype or revisiting an older version of your favorite Web site. The Internet Archive Wayback Machine can make all of this possible."*[2]( https://help.archive.org/help/wayback-machine-general-information/)
+*"The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Websites. Visitors to the Wayback Machine can type in a URL, select a date range, and then begin surfing on an archived version of the Web. Imagine surfing circa 1999 and looking at all the Y2K hype or revisiting an older version of your favorite Website. The Internet Archive Wayback Machine can make all of this possible."*[2]( https://help.archive.org/help/wayback-machine-general-information/)
 
 ## Steps to use Internet Archive Wayback Machine
 

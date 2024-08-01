@@ -9,7 +9,7 @@ nav_order: 5
 
 In this section, you will be provided with steps to create a `locations.md` page that loads data from the `locations.csv` file, utilizing Jekyll's ability to load data from various file formats like CSV and YAML.
 
-1. **In the `_data` folder, create a data file named `locations.csv`**
+1. **In the `_data` folder, create a data file named `locations.csv`.**
     
     An example of the `locations.csv` file content is provided below:
 
@@ -29,7 +29,7 @@ In this section, you will be provided with steps to create a `locations.md` page
         "Vaughan","Ontario","L4K 1Y5"
     ```
 
-2. **In your Jekyll folder, create a page named `locations.md`**
+2. **In your Jekyll folder, create a page named `locations.md`.**
     
     An example of the `locations.csv` file content is provided below:
 

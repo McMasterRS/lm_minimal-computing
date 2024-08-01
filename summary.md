@@ -6,7 +6,7 @@ nav_order: 10
 
 ## Summary
 
-Throughout this module, we covered the fundamentals of Minimal Computing and emphasized its importance nowadays in keeping our digital products simple and accessible. We also explored sustainable digital preservation methods to preserve a site. You have learned how to customize a Minimal Computing site that uses the Minima Jekyll theme and how to host it on GitHub Pages. By the end, you are now equipped with the basics to implement Minimal Computing principles effectively.
+Throughout this module we covered the fundamentals of Minimal Computing and emphasized its importance in keeping our digital products simple and accessible. We explored in detail how to create and customize a Minimal Computing site that uses the Minima Jekyll theme and how to host it on GitHub Pages. This work provides the basis to create and host minimal computing websites, and understand the importance of minimal computing for research software.  
 
 ### Further Readings
 
